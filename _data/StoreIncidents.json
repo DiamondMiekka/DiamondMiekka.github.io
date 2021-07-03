@@ -42,7 +42,327 @@
 	},
 	{
 		"abr": "snowgentle",
-		"price": 350,
+		"price": 350,{
+	"incitems" : [
+	{
+		"abr": "tornado",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 7500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "clearweather",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunderstorm",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "heatwave",
+		"price": 3500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 4000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 3500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "solarflare",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "toxicfallout",
+		"price": 65000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 32000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "eclipse",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "aurora",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "blight",
+		"price": 3500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "resourcepodcrash",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "meteor",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "madanimal",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 4000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ambrosiasprout",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "herdmigration",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 4000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "shipchunkdrop",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "skillincrease",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "alphabeavers",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raid",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 7500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "manhunterpack",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 50000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "levelskill",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 4500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 250000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 25000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 7500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	}
+	],
+	"total": 63
+}
+
 		"karmatype": "Neutral"
 	},
 	{
