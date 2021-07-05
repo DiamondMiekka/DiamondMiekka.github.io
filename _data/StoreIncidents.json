@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "transportpodcrash",
+		"price": 6000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "orbitaltraderarrival",
 		"price": 3500,
 		"karmatype": "Good"
@@ -148,6 +153,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 4000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -217,7 +227,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 50000,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
@@ -251,18 +261,13 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 250000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 15000,
 		"karmatype": "Good"
 	},
 	{
@@ -296,6 +301,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "rescueme",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "fullheal",
 		"price": 7500,
 		"karmatype": "Good"
@@ -316,5 +326,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 63
+	"total": 65
 }
