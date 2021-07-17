@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 6000,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -251,6 +251,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "genderswap",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "randominspire",
 		"price": 4500,
 		"karmatype": "Good"
@@ -326,5 +331,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 65
+	"total": 66
 }
