@@ -56,7 +56,7 @@
 	},
 	{
 		"abr": "ambrosia",
-		"price": 15,
+		"price": 30,
 		"category": "Drugs",
 		"defname": "Ambrosia"
 	},
@@ -188,7 +188,7 @@
 	},
 	{
 		"abr": "beer",
-		"price": 25,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
@@ -980,7 +980,7 @@
 	},
 	{
 		"abr": "flake",
-		"price": 50,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
@@ -1094,13 +1094,13 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": 50,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
 	{
 		"abr": "gold",
-		"price": 20,
+		"price": 50,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
@@ -1226,7 +1226,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 15000,
+		"price": 10000,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -1286,7 +1286,7 @@
 	},
 	{
 		"abr": "hops",
-		"price": 5,
+		"price": 10,
 		"category": "Plant matter",
 		"defname": "RawHops"
 	},
@@ -1460,7 +1460,7 @@
 	},
 	{
 		"abr": "jade",
-		"price": 25,
+		"price": 20,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
@@ -1598,7 +1598,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 150,
+		"price": 250,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -1916,7 +1916,7 @@
 	},
 	{
 		"abr": "penoxycyline",
-		"price": 50,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "Penoxycyline"
 	},
@@ -2000,7 +2000,7 @@
 	},
 	{
 		"abr": "platearmor",
-		"price": 1000,
+		"price": 2000,
 		"category": "Armor",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -2114,7 +2114,7 @@
 	},
 	{
 		"abr": "psychicharmonizer",
-		"price": 50000,
+		"price": 25000,
 		"category": "Archotech",
 		"defname": "PsychicHarmonizer"
 	},
@@ -2132,7 +2132,7 @@
 	},
 	{
 		"abr": "psychicsensitizer",
-		"price": 25000,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "PsychicSensitizer"
 	},
@@ -2150,13 +2150,13 @@
 	},
 	{
 		"abr": "psychitetea",
-		"price": 25,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "PsychiteTea"
 	},
 	{
 		"abr": "psychoidleaves",
-		"price": 5,
+		"price": 10,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves"
 	},
@@ -2414,7 +2414,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 25000,
+		"price": 20000,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -2672,13 +2672,13 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": 25,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
 	{
 		"abr": "smokeleafleaves",
-		"price": 5,
+		"price": 10,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves"
 	},
@@ -2936,7 +2936,7 @@
 	},
 	{
 		"abr": "thrumbohorn",
-		"price": 1000,
+		"price": 5000,
 		"category": "Items",
 		"defname": "ThrumboHorn"
 	},
@@ -3062,7 +3062,7 @@
 	},
 	{
 		"abr": "uranium",
-		"price": 25,
+		"price": 50,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
@@ -3074,7 +3074,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 50000,
+		"price": 20000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -3104,7 +3104,7 @@
 	},
 	{
 		"abr": "wake-up",
-		"price": 50,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
@@ -3290,7 +3290,7 @@
 	},
 	{
 		"abr": "yayo",
-		"price": 50,
+		"price": 100,
 		"category": "Drugs",
 		"defname": "Yayo"
 	},
@@ -3482,7 +3482,7 @@
 	},
 	{
 		"abr": "cherrywood",
-		"price": 3,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "ZEN_CherryWood"
 	},
@@ -3524,7 +3524,7 @@
 	},
 	{
 		"abr": "ebonywood",
-		"price": 4,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "ZEN_EbonyWood"
 	},
@@ -3890,13 +3890,13 @@
 	},
 	{
 		"abr": "nanotechfuel",
-		"price": 4,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "Ogre_NanoTechFuel"
 	},
 	{
 		"abr": "nanotechfuelbase",
-		"price": 2,
+		"price": 5,
 		"category": "Manufactured",
 		"defname": "Ogre_NanoTechFuelBase"
 	},
@@ -4308,6 +4308,12 @@
 		"category": "Vegetarian",
 		"defname": "ZEN_Cherries"
 	},
+	{
+		"abr": "bionictongue",
+		"price": 10000,
+		"category": "Bionic",
+		"defname": "BionicTongue"
+	},
 	],
-	"total": 720
+	"total": 721
 }
