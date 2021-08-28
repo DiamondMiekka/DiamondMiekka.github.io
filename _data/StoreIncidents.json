@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 7500,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
@@ -192,17 +192,17 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 7500,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 7500,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,8 +252,8 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 2000,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "disease",
@@ -312,7 +312,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 15000,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
