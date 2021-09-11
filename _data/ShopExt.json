@@ -61,9 +61,9 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "abrasive",
@@ -81,7 +81,7 @@
           "psychopath"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
@@ -148,14 +148,14 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 50000,
       "removePrice": 1500,
       "degree": 0
     },
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -171,14 +171,14 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 5000,
       "removePrice": 1500,
       "degree": 0
     },
@@ -350,7 +350,7 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 50000,
       "removePrice": 1500,
       "degree": 0
     },
@@ -382,7 +382,7 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 50000,
       "removePrice": 1500,
       "degree": 0
     },
@@ -812,7 +812,7 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 5000,
       "removePrice": 1500,
       "degree": 0
     },
@@ -842,7 +842,7 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 50000,
       "removePrice": 1500,
       "degree": 0
     },
@@ -872,7 +872,7 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
+      "addPrice": 50000,
       "removePrice": 1500,
       "degree": 0
     },
@@ -2026,8 +2026,8 @@
       "name": "germaphobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 2
     },
     {
@@ -2056,8 +2056,8 @@
       "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     },
     {
@@ -2086,8 +2086,8 @@
       "name": "unhygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -1
     },
     {
@@ -2116,8 +2116,8 @@
       "name": "slob",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": -2
     },
     {
@@ -2152,10 +2152,10 @@
       },
       "defName": "AIRobot_BaseTrait",
       "name": "robot",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 1
     }
   ],
