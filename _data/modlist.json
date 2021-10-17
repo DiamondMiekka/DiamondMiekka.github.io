@@ -87,7 +87,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   {
     "author": "krafs",
@@ -183,7 +183,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.5.1"
+    "version": "6.1.6.0"
   },
   {
     "author": "swemoney",
@@ -212,14 +212,14 @@
   {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
-    "steamId": null,
-    "version": null
+    "steamId": "1735421319",
+    "version": "0.0.0.0"
   },
   {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.9.2097"
+    "version": "2.7.7366"
   },
   {
     "author": "Telkir",
@@ -279,7 +279,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3102.1"
+    "version": "1.3.3136.1"
   },
   {
     "author": "Haplo",
