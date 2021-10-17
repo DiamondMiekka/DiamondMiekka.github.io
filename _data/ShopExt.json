@@ -350,7 +350,7 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 50000,
+      "addPrice": 1500,
       "removePrice": 1500,
       "degree": 0
     },
