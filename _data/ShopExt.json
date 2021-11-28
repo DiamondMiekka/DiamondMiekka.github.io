@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
       "stats": [
         "x200% global certainty loss factor"
       ],
@@ -1999,126 +1999,6 @@
       "addPrice": 1500,
       "removePrice": 1500,
       "degree": -1
-    },
-    {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "hygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "slob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": -2
     },
     {
       "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
