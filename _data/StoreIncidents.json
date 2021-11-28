@@ -138,7 +138,7 @@
 	{
 		"abr": "alphabeavers",
 		"price": 2000,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "shippartpoison",
@@ -183,7 +183,7 @@
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "randomdisease",
