@@ -30,12 +30,6 @@
     "version": null
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.5.0"
-  },
-  {
     "author": "Ratys",
     "name": "Mad Skills",
     "steamId": "731111514",
@@ -96,12 +90,6 @@
     "version": null
   },
   {
-    "author": "XeoNovaDan (original) & KiameV (current)",
-    "name": "[KV] Hand 'n' Footwear",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sulusdacor",
     "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": null,
@@ -132,12 +120,6 @@
     "version": null
   },
   {
-    "author": "Ogre",
-    "name": "Nano Repair Tech",
-    "steamId": "1447372624",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kiame Vivacity",
     "name": "[KV] RimFridge",
     "steamId": "1180721235",
@@ -156,24 +138,6 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ireth92",
-    "name": "Beautiful Bodies",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Elvasat",
-    "name": "Elvasat's Furniture(continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
     "steamId": "1735421319",
@@ -184,18 +148,6 @@
     "name": "Doors Expanded (Dev)",
     "steamId": "2195733555",
     "version": "1.4.0.1"
-  },
-  {
-    "author": "Arendjvr2000",
-    "name": "NanoTech Royalty patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "dracoix",
@@ -222,20 +174,122 @@
     "version": null
   },
   {
-    "author": "sunny",
-    "name": "MoreGloomyWalls 1.3",
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Deep Stack",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Damian Pauaqq Pawlak",
-    "name": "Weaker Breach Axe and Termite Gun",
+    "author": "Epicguru (James B)",
+    "name": "Disco!",
+    "steamId": "2436747646",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Alaestor",
-    "name": "Misc. Robots++",
+    "author": "Lakuna and  Drizzly",
+    "name": "Christmas Hats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kokey",
+    "name": "X.E.N.O",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "H4nsH3inrich",
+    "name": "Colorful Cloth - Christmas Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Scurvyez",
+    "name": "StevesWalls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "RainbowLamp",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "tikubonn",
+    "name": "RaibowWallLight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Castle Walls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Christmas Expanded (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rikiki",
+    "name": "FishIndustry",
+    "steamId": "758810805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hamu-taro",
+    "name": "Eternal Youth Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aidan",
+    "name": "Self Lit Hydroponics",
+    "steamId": "2152790833",
+    "version": "1.0.7908.29245"
+  },
+  {
+    "author": "Lord Felix",
+    "name": "[JDS] Castle Walls 75% off",
     "steamId": null,
     "version": null
   },
@@ -270,75 +324,15 @@
     "version": "1.0.5.0"
   },
   {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
+    "author": "Helixien,  Taranchuk and  Alastair",
+    "name": "ReGrowth: Core and Framework",
+    "steamId": "2260097569",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Faction Control",
-    "steamId": "1509102551",
-    "version": "1.0.7983.38343"
-  },
-  {
-    "author": "Abraxas",
-    "name": "Medical System Expansion - Revived",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "void",
-    "name": "Deep Stack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.1.6.0"
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "Disco!",
-    "steamId": "2436747646",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Growable Ambrosia",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Nature",
-    "steamId": "2558409397",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Meteor",
-    "steamId": "2556924961",
-    "version": "1"
-  },
-  {
-    "author": "Twink315",
-    "name": "Vault-Tec - Handy things for your vault!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vaniat",
-    "name": "Bulk Carrier",
-    "steamId": "1428989232",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
   }
 ]
