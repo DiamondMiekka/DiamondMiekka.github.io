@@ -11279,46 +11279,6 @@
     "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "vtsuperreactor": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
-  "vtreactor": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vault-Tec - Handy things for your vault!",
-    "KarmaType": null
-  },
   "Vtarmdiner": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -13279,14 +13239,14 @@
     "Mod": "Ideology",
     "KarmaType": null
   },
-  "Lighting_WallLightRainbow": {
+  "vtsuperreactor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 1,
+    "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -13296,17 +13256,17 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RaibowWallLight",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
-  "StandingLamp_Rainbow": {
+  "vtreactor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 1,
+    "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -13316,7 +13276,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RainbowLamp",
+    "Mod": "Vault-Tec - Handy things for your vault!",
     "KarmaType": null
   },
   "Apparel_Broadwrap": {
