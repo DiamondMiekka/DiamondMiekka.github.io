@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 50000,
+		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 25000,
+		"price": 12500,
 		"karmatype": "Doom"
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "aurora",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -369,7 +369,32 @@
 		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 79
 }
