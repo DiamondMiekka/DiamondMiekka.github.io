@@ -4102,13 +4102,13 @@
       "abr": "nanotechslabbed",
       "category": "Furniture",
       "defname": "SlabBed_NanoBed",
-      "price": -10
+      "price": 187
     },
     {
       "abr": "nanotechslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBed_NanoBed",
-      "price": -10
+      "price": 442
     }
   ],
   "total": 685
